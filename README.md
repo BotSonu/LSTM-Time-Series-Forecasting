@@ -1,4 +1,4 @@
-```markdown
+
 # LSTM Time Series Forecasting
 
 This project implements a time series forecasting model using Long Short-Term Memory (LSTM) networks. It demonstrates how to predict future values based on historical data, such as temperature predictions, using Python libraries like TensorFlow, Keras, NumPy, Pandas, and Scikit-Learn.
@@ -20,4 +20,4 @@ This project implements a time series forecasting model using Long Short-Term Me
 ## Usage
 
 - Open `Temperature_Prediction.ipynb` in Jupyter Notebook or Google Colab.
-- Follow the steps in the notebook to preprocess the data, train the LSTM model, and make predictions.
+- Run the cells in the notebook to preprocess the data, train the LSTM model, and make predictions.
